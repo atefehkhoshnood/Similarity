@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc50f802-36aa-4f44-99a7-4c916ba7c07a" name="Default Changelist" comment="" />
+    <list default="true" id="bc50f802-36aa-4f44-99a7-4c916ba7c07a" name="Default Changelist" comment="fix gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/Similarity.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,121 +25,61 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="2" />
           <entry key="punctuations" value="1" />
-          <entry key="py" value="4" />
+          <entry key="py" value="6" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="4" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="33" />
-          <entry key="py" value="4176" />
-          <entry key="txt" value="2" />
+          <entry key="gitignore" value="8" />
+          <entry key="py" value="4186" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="4209" />
+          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="Python" value="4219" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="2" />
+          <entry key="git.branch.create.new" value="1" />
+          <entry key="git.branch.delete.local" value="1" />
+          <entry key="git.branch.rename" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Similarity" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="64" column="64" lean-forward="true" selection-start-line="64" selection-start-column="64" selection-end-line="64" selection-end-column="64" />
-              <folding>
-                <element signature="e#131#166#0" expanded="true" />
-                <marker date="1580326173680" expanded="true" signature="1240:1870" ph="..." />
-                <marker date="1580326173680" expanded="true" signature="2155:2157" ph="..." />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/test_data.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-end-column="362" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/mousepad.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="312" selection-start-column="312" selection-end-column="312" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/cmouse.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="186" selection-start-line="2" selection-start-column="179" selection-end-line="2" selection-end-column="186" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test_utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <marker date="1580251227050" expanded="true" signature="49:54" ph="..." />
-                <marker date="1580251227050" expanded="true" signature="188:193" ph="..." />
-                <marker date="1580251227050" expanded="true" signature="361:366" ph="..." />
-                <marker date="1580251227050" expanded="true" signature="547:620" ph="..." />
-                <marker date="1580251227050" expanded="true" signature="790:974" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-              <folding>
-                <marker date="1580281433877" expanded="true" signature="263:268" ph="..." />
-                <marker date="1580281433877" expanded="true" signature="364:576" ph="..." />
-                <marker date="1580281433877" expanded="true" signature="761:1023" ph="..." />
-                <marker date="1580281433877" expanded="true" signature="1121:1122" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/similarity.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
-              <folding>
-                <element signature="e#131#166#0" expanded="true" />
-                <marker date="1580269536820" expanded="true" signature="221:226" ph="..." />
-                <marker date="1580269536820" expanded="true" signature="250:255" ph="..." />
-                <marker date="1580269536820" expanded="true" signature="286:416" ph="..." />
-                <marker date="1580269536820" expanded="true" signature="448:679" ph="..." />
-                <marker date="1580269536820" expanded="true" signature="1666:1671" ph="..." />
-                <marker date="1580269536820" expanded="true" signature="1702:1961" ph="..." />
-                <marker date="1580269536820" expanded="true" signature="2113:2114" ph="..." />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -152,6 +99,14 @@
       <find>optical</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -165,6 +120,7 @@
         <option value="$PROJECT_DIR$/data/mousepad.txt" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/resources/test_data.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -175,6 +131,7 @@
     <option name="width" value="1670" />
     <option name="height" value="951" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -190,12 +147,7 @@
             <path>
               <item name="Similarity" type="b2602c69:ProjectViewProjectNode" />
               <item name="Similarity" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Similarity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Similarity" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,8 +270,8 @@
         <item itemvalue="Python.main" />
         <item itemvalue="Python tests.pytest for test_utils.test_clean_text" />
         <item itemvalue="Python tests.pytest for test_utils.test_remove_punctuationss" />
-        <item itemvalue="Python tests.pytest for test_utils.test_remove_stop_words" />
         <item itemvalue="Python tests.pytest for test_utils.test_remove_numbers" />
+        <item itemvalue="Python tests.pytest for test_utils.test_remove_stop_words" />
       </list>
     </recent_temporary>
   </component>
@@ -334,6 +286,21 @@
       <option name="presentableId" value="Default" />
       <updated>1580234895862</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix gitignore">
+      <created>1580330308326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580330308326</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add import">
+      <created>1580331441377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580331441377</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -368,23 +335,32 @@
       <configuration name="pytest for test_utils.test_clean_text" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="23" width="1670" height="951" extended-state="0" />
+    <frame x="9" y="23" width="1069" height="951" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2498484" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4996968" visible="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003032" side_tool="true" visible="true" weight="0.32894737" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.39312977" />
+      <window_info id="Structure" order="1" sideWeight="0.50089127" side_tool="true" weight="0.39312977" />
+      <window_info id="Favorites" order="2" sideWeight="0.50089127" side_tool="true" weight="0.39312977" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996968" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.83587784" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.16412213" side_tool="true" visible="true" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -392,6 +368,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix gitignore" />
+    <MESSAGE value="add import" />
+    <option name="LAST_COMMIT_MESSAGE" value="add import" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/cat.txt">
@@ -415,16 +396,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/punctuations">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/punctuations.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/punctuations" />
+    <entry file="file://$PROJECT_DIR$/resources/punctuations.txt" />
     <entry file="file://$PROJECT_DIR$/test/resources/stop_words.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -436,16 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="80" selection-start-line="80" selection-end-line="80" />
-          <folding>
-            <element signature="e#131#166#0" expanded="true" />
-            <marker date="1580269536820" expanded="true" signature="221:226" ph="..." />
-            <marker date="1580269536820" expanded="true" signature="250:255" ph="..." />
-            <marker date="1580269536820" expanded="true" signature="286:416" ph="..." />
-            <marker date="1580269536820" expanded="true" signature="448:679" ph="..." />
-            <marker date="1580269536820" expanded="true" signature="1666:1671" ph="..." />
-            <marker date="1580269536820" expanded="true" signature="1702:1961" ph="..." />
-            <marker date="1580269536820" expanded="true" signature="2113:2114" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -453,13 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <marker date="1580251227050" expanded="true" signature="49:54" ph="..." />
-            <marker date="1580251227050" expanded="true" signature="188:193" ph="..." />
-            <marker date="1580251227050" expanded="true" signature="361:366" ph="..." />
-            <marker date="1580251227050" expanded="true" signature="547:620" ph="..." />
-            <marker date="1580251227050" expanded="true" signature="790:974" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -481,12 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <marker date="1580281433877" expanded="true" signature="263:268" ph="..." />
-            <marker date="1580281433877" expanded="true" signature="364:576" ph="..." />
-            <marker date="1580281433877" expanded="true" signature="761:1023" ph="..." />
-            <marker date="1580281433877" expanded="true" signature="1121:1122" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,13 +449,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="64" column="64" lean-forward="true" selection-start-line="64" selection-start-column="64" selection-end-line="64" selection-end-column="64" />
-          <folding>
-            <element signature="e#131#166#0" expanded="true" />
-            <marker date="1580326173680" expanded="true" signature="1240:1870" ph="..." />
-            <marker date="1580326173680" expanded="true" signature="2155:2157" ph="..." />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
