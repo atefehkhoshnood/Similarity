@@ -1,4 +1,3 @@
-# Created by pytest automatically.
 *.log
 .idea/workspace.xml
 .DS_Store
