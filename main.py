@@ -4,6 +4,7 @@
 ###############################################
 
 from collections import defaultdict
+import os
 
 from utils import *
 from similarity import Similarity
